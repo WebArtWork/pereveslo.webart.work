@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pereveslo.webart.work/sitemap.xml
