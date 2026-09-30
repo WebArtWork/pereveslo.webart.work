@@ -18,7 +18,10 @@ Live site: https://pereveslo.webart.work
 ## Contact
 - Phone: +38 067 383 94 86
 - Address: с. Оринин, вул. Чеберцева, 2
-- Website/booking: pereveslo.webart.work (a Google Maps link to the property is provided on the page; no separate third-party booking site is linked)
+- Website/booking: pereveslo.webart.work (a Google Maps link to the property is provided on the page; no separate third-party booking site is linked; request forms go to HotelOS)
 
 ## Notes
 The page itself flags several details as unverified or unconfirmed: exact travel distance/time to Kamianets-Podilskyi, room counts/categories/pricing, sauna vs. bathhouse distinction, boat/catamaran rental terms, fishing rules and pricing, gazebo count and pricing, and the real banquet hall capacity and layout.
+
+## Forms
+Connected to HotelOS (`kp-pereveslo`): `stay-request` (after Проживання), `sauna-request` (sauna / wood-fired banya / chan, after Відпочинок), `event-request` (banquet hall, after Святкування).
